@@ -1,3 +1,3 @@
 # CepLocation
 
-Utilize: CepLocation.py <CEP>
+Utilize: CepLocation.py (CEP)
